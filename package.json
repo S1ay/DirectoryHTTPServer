@@ -1,0 +1,18 @@
+{
+  "name": "directory_server",
+  "version": "0.0.1",
+  "description": "Little web server that will serve up a directory",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S1ay",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}

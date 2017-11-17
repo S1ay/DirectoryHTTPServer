@@ -1,2 +1,1 @@
-# DirectoryHTTPServer
-Simple node http server to serve up a directory.
+##Project to learn nodes http server
